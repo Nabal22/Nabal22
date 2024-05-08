@@ -7,7 +7,6 @@ Particularly interested in social media apps, human-computer interaction, and op
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alban-talagrand-6a2424235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariianel" height="30" width="40" /></a>
-<a href="https://discord.gg/kaini#7765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kaini#7765" height="30" width="40" /></a>
 </p>
 
 
