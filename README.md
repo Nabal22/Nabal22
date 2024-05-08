@@ -1,4 +1,4 @@
-<h3 align="center">Etudiante BUT Informatique | Alternante chez Arrows Groupe </h3>
+<h3 align="center">Computer Science Student at IUT Rives de Seine| Apprentice at VIA working on My Battery Health </h3>
 
 Je m'intérèsse principalement au développement Front que cela soit en développant des applications Web et Mobile ou bien en concevant des design d'interfaces.
 
