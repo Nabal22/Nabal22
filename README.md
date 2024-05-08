@@ -1,6 +1,7 @@
 <h3 align="center">Computer Science Student at IUT Rives de Seine| Apprentice at VIA working on My Battery Health </h3>
 
-Je m'intérèsse principalement au développement Front que cela soit en développant des applications Web et Mobile ou bien en concevant des design d'interfaces.
+A student in computer science passioned about the application building process, from prototype to programming.
+Particularely interested by social media apps, human-computer interaction and open source.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
