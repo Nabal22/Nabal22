@@ -1,4 +1,4 @@
-<h3 align="center">Computer Science Student at IUT Rives de Seine| Apprentice at VIA working on My Battery Health </h3>
+<h3 align="center">Computer Science Student at Université Paris Cité | Apprentice at Open Climat </h3>
 
 A computer science student passionate about the application building process, from prototype to programming.
 
